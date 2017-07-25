@@ -38,15 +38,7 @@ $mailconf = array(
 		'port' => 465,
 		'secure' => 'ssl',	//加密方式
 		'username' => 'icharm.me@foxmail.com',
-		'password' => 'cjdvdeetatsydcic', //qq授权码
+		'password' => 'cjdvdeetatsydc', //qq授权码
 		'formName' => '南邮请销假系统(ICHARM)', //显示在源邮件地址旁边的head
-	),
-	'51blogs' => array(
-		'host' => '115.159.112.210',
-		'port' => 25,
-		'secure' => '',	//加密方式
-		'username' => 'stock@icharm.me',
-		'password' => 'icharm.me', //qq授权码
-		'formName' => '股票预警(ICHARM)', //显示在源邮件地址旁边的head
 	),
 );
