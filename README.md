@@ -28,6 +28,27 @@
 		--/ask-for-leave.php 学生请假页面
 		--/cancel-for-leave.php 学生销假页面
 
+## 效果图
+
+1.管理员登录页面
+![](demo/admin_login.png)
+
+2.管理员-添加学生
+![](demo/admin_add_student.png)
+
+3.辅导员审批页面
+![](demo/mentor.png)
+
+4.学生登录页面
+![](demo/student_login.png)
+
+5.请假页面
+![](demo/student_ask_leave.png)
+
+6.销假页面
+![](demo/student_cancel_leave.png)
+
+
 
 
 
